@@ -10,6 +10,6 @@ Team 340 is also participating in [The Open Alliance](https://theopenalliance.co
 - [Website](https://team340.org)
 - [The Blue Alliance](https://thebluealliance.com/team/340)
 - [Instagram](https://instagram.com/grr340)
-- [YouTube](https://youtube.com/@firstteam3407)
+- [YouTube](https://youtube.com/@grr340)
 - [2024 Robot Code](https://github.com/Greater-Rochester-Robotics/Crescendo2024-340)
 - [2024 OA Build Thread](https://www.chiefdelphi.com/t/frc-team-340-greater-rochester-robotics-2024-build-thread-open-alliance/443107)
