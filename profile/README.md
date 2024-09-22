@@ -6,6 +6,6 @@ Our robot code for the 2024 season can be found [here](https://github.com/Greate
 
 ### Links
 - [Website](https://team340.org)
-- [The Blue Alliance](https://thebluealliance.com/team/340)
 - [YouTube](https://youtube.com/@grr340)
 - [Instagram](https://instagram.com/grr340)
+- [The Blue Alliance](https://thebluealliance.com/team/340)
