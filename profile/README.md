@@ -1,6 +1,10 @@
 ## FRC Team 340 - Greater Rochester Robotics
 
-Greater Rochester Robotics works to promote science, technology, and engineering throughout the Churchville-Chili School District and the greater Rochester area. We incorporate FIRST Robotics concepts into classroom activities, test and design new engineering concepts, and support existing and new FIRST Robotics teams in the region. With the goal of fostering collaboration, Team 340 releases our robot code publicly here in this GitHub organization.
+Team 340, G.R.R. (Greater Rochester Robotics) is a high school robotics team that competes annually in the FIRST® Robotics Competition. Every year, our students are challenged to design, build, and program a competitive industrial-sized robot capable of playing a field game that is released in January.
+
+Our program gives students hands-on experience working in areas such as mechanical engineering, manufacturing and fabrication, electronics, programming, and more, supported by adult mentors who work professionally in these fields.
+
+With the goal of fostering collaboration, Team 340 releases our robot code publicly in this GitHub organization. Here you can also find other programming-related resources, such as robot logs and our template repository.
 
 Our robot code from the 2025 REEFSCAPE season can be found [here](https://github.com/Greater-Rochester-Robotics/Reefscape2025-340).
 
