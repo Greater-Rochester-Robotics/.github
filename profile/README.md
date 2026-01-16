@@ -7,10 +7,3 @@ Team 340, G.R.R. (Greater Rochester Robotics) is a high school robotics team tha
 Our robot code for the 2026 REBUILT season can be found [here](https://github.com/Greater-Rochester-Robotics/Rebuilt2026-340).
 
 ![340 Banner](../banner.png)
-
-### Other Links
-- [Website](https://team340.org)
-- [YouTube](https://youtube.com/@grr340)
-- [Instagram](https://instagram.com/grr340)
-- [The Blue Alliance](https://thebluealliance.com/team/340)
-- [2026 Build Blog](https://www.chiefdelphi.com/t/frc-340-g-r-r-2026-build-thread-open-alliance/508142)
